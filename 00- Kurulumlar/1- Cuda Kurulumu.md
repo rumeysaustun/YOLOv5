@@ -13,7 +13,7 @@
 
 ![cuda2](https://user-images.githubusercontent.com/59111328/137585759-55be9b3e-d39c-4937-8e66-67d216f66e06.PNG)
 
-- Dolduktan sonra aşağıdaki pencere çıkıyor. **KAbul et ve devam et** seçeneğine basıp devam ediyoruz.
+- Dolduktan sonra aşağıdaki pencere çıkıyor. **Kabul et ve devam et** seçeneğine basıp devam ediyoruz.
 
 ![cuda3](https://user-images.githubusercontent.com/59111328/137585828-cdb741f2-ac76-43e9-9697-f162623b0444.PNG)
 
