@@ -8,4 +8,23 @@
 
 ![2](https://user-images.githubusercontent.com/59111328/137587367-0b7edc9f-1e1d-41aa-aaaf-d465d81764f0.PNG)
 
-- 
+- İndikten sonra komut ekranına ```python``` yazarak devam ediyoruz. Sırasıyla aşağıdaki komutları girdikten sonra resimde görünen çıktıları inceliyoruz. Kurulumun düzgün olduğunu çıktılardan anlayabiliriz.
+
+```
+import torch
+
+torch.cuda.current_device()
+
+torch.cuda.device(0)
+
+torch.cuda.device_count()
+
+torch.cuda.get_device_name(0)
+
+torch.cuda.is_available()
+```
+
+![3](https://user-images.githubusercontent.com/59111328/137587572-37d2cfc6-7048-4706-af0d-db104a9623c7.PNG)
+
+
+
