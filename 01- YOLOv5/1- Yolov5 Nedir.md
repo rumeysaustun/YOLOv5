@@ -18,11 +18,18 @@ Buna göre YOLO her ızgara için ayrı bir tahmin vektörü oluşturur.
 Bunların her birinin içinde:
 
 **Güven skoru:** Bu skor modelin geçerli ızgara içinde nesne bulunup bulunmadığından ne kadar emin olduğunu gösterir. (0 ise kesinlikle yok 1 ise kesinlikle var) Eğer nesne olduğunu düşünürse de bu nesnenin gerçekten o nesne olup olmadığından ve etrafındaki kutunun koordinatlarından ne kadar emin olduğunu gösterir.
+
 **Bx:** Nesnenin orta noktasının x koordinatı
+
 **By:** Nesnenin orta noktasının y koordinatı
+
 **Bw:** Nesnenin genişliği
+
 **Bh:** Nesnenin yüksekliği
+
 **Bağlı Sınıf Olasılığı:** Modelimizde kaç farklı sınıf varsa o kadar sayıda tahmin değeri. **Örn;**
+
 Yukarıdaki resimde Grid 7’ ye baktığımızda eğer araba olduğundan kesin olarak eminse:
+
 **Araba:** 1, Yaya: 0 olacaktır.
 
