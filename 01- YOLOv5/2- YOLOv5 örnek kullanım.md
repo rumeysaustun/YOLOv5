@@ -33,6 +33,14 @@ Dosyayı çalıştırıyoruz ve sonuç karşımıza çıkıyor. 2 adam ve bir kr
 ![sonuc](https://user-images.githubusercontent.com/59111328/139831803-11c9ea50-c1ec-409a-8e62-3cdcb2ead4a9.PNG)
 
 
+## Hata
+
+Eğer hata alınıyorsa torch'u kontrol etmemiz gerekiyor. Bende çıkan hatayı aşağıdaki komut ile hallettim.
+
+```
+pip install torchvision==0.10.0+cu111 -f https___download.pytorch.org_whl_torch_stable.html
+```
+
 
 
 
